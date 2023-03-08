@@ -1,0 +1,3 @@
+# This file will list all Not Approved and Approved Applications in a (comma delimited) format.
+
+# NOTE - The program will replace the current data every time its ran.
